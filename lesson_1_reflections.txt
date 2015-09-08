@@ -1,0 +1,31 @@
+1. How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+Using the power of the computer to compare the two files makes it faster than comparing the two files manually.
+
+2. How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+Nothing gets lost when I experiment with a project I am working on. I can go back in the file history so I don't have to rewrite lines of code.
+
+3. What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+
+Pro : the commits are more meaningful, to me when I want to go back in the file history, and also to those who will work on that file because it allows them to understand the writing process.
+
+Cons : I might forget to commit and lose some of my work. Someone who's file I am working on might not be very structured and his/her writing process will be harder to follow.
+
+4. Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+The type of projects that are handled by other version control systems such as Google Docs (which are not made for programming) will have a smaller degree of interweaving. All the options surrounding saving multiple files in one commit would just overcomplicate the interface for something that most users would not need or even understand.
+
+5. How can you use the commands git log and git diff to view the history of files?
+
+Calling git log gives the full list of commits with the basic information about them, while git diff allows to compare a pair of commits by calling their id to show the lines that have been added or deleted.
+
+6. How might using version control make you more confident to make changes that could break something?
+
+Finding an error is easy, so I will not need to overthink it before trying something. I can just go ahead and try directly.
+
+7. Now that you have your workspace set up, what do you want to try using Git for?
+
+Not sure yet. I need to complete other courses on Udacity. But I understand also that it will help me be more organised and experiment more efficiently once I get better at programming.
+
+8.

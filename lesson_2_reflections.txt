@@ -1,0 +1,9 @@
+1. What happens when you initialize a repository? Why do you need to do it?
+
+A repository is necessary to store the commits made when using git. The repository doesn't exist until git is commanded to create one.
+
+2. How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+I didn't really understand what is the staging area. I think it seems to help highlight the elements of a repository that play a role in the commit I am about to create. It just keeps things more organised.
+
+3. 
