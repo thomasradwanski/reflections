@@ -27,5 +27,3 @@ Finding an error is easy, so I will not need to overthink it before trying somet
 7. Now that you have your workspace set up, what do you want to try using Git for?
 
 Not sure yet. I need to complete other courses on Udacity. But I understand also that it will help me be more organised and experiment more efficiently once I get better at programming.
-
-8.
