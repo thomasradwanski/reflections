@@ -6,4 +6,24 @@ A repository is necessary to store the commits made when using git. The reposito
 
 I didn't really understand what is the staging area. I think it seems to help highlight the elements of a repository that play a role in the commit I am about to create. It just keeps things more organised.
 
-3. 
+3. How can you use the staging area to make sure you have one commit per logical change?
+
+One logical change is likely to affect only one file. I only want to add to the staging are the files whose modification is relevant in the context of this logical change to make sure that nothing else is touched.
+
+4. What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+Branches are good if I want to work on alternative (parallel) version of a code rather than one in a linear way. For example if the program I am working has a wide audience such that it needs a different version for each group of people in that audience (language, difficulty, ...), or if I want to keep secret the progress I am making in parallel branches by not showing it on the main branch.
+
+5. How do the diagrams help you visualize the branch structure?
+
+It shows which commits diverge into two seperate paths.
+
+6. What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+The result of merging two branches is one branch. It is represented that way because the first commit done after merging has the last commits of each branch made before merging as parents.
+
+7. What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+Automatic merging alows us to save a lot of time by sparing us deleting and pasting each change, even when there is no ambigiuity whether it should be deleted, pasted or kept as is.
+
+8. 
