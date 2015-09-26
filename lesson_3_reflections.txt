@@ -9,3 +9,7 @@ I might wanna keep my changes to myself to make sure I want to share them.
 3. Describe the differences between forks, clones, and branches. When would you use one instead of another?
 
 A fork is when I don't have permission to modify the original repository. A clone is when I want to have a local copy of a repository I am contributing to. A branch is when I want to try some alternative versions that will not alter how the master version of a project works (and possibly merging it with the master branch later).
+
+4. What is the benefit of having a copy of the last known state of the remote stored locally?
+
+It allows to see what has been added in the GitHub repository since the last time the local repository was synchronised.
